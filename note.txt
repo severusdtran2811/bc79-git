@@ -1,0 +1,9 @@
+--- Đẩy code từ local lên remote
+
++repository local: source code lưu trong máy
++repository remote: source code lưu trên github
+
+- liên kết vscode và github
+git config --global user.name "Your name"
+git config --global user.name "Your@email.com"
+
